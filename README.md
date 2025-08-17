@@ -10,8 +10,9 @@ This repository contains two parts: a WordPress theme and a WordPress plugin.
 - To use it:
   1. Install the `ezo` theme in your WordPress setup.
   2. Assign the appropriate templates to pages in the WordPress admin.
-  3. Use the block editor to add blocks to pages.
-  4. View the blocks on the frontend to see the results.
+  3. Import the acf json file after installing the Advanced Custom Fields - Pro plugin to get the ACF fields.
+  4. Use the block editor to add blocks to pages.
+  5. View the blocks on the frontend to see the results.
 
 ---
 
